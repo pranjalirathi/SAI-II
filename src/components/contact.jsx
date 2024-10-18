@@ -38,7 +38,7 @@ export const Contact = (props) => {
   return (
     <div>
       <div id="contact">
-        <div className="container">
+        <div className="container" style={{marginTop:'70px'}}>
           <div className="col-md-8">
             <div className="row">
               <div className="section-title">

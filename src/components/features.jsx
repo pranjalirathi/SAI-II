@@ -15,6 +15,7 @@ export const Features = (props) => {
                   <i className={d.icon}></i>
                   <h3>{d.title}</h3>
                   <p>{d.text}</p>
+                  <a className="btn btn-custom btn-lg" href={d.link}>Click</a>
                 </div>
               ))
             : "Loading..."}

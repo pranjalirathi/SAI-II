@@ -13,31 +13,34 @@ import SmoothScroll from "smooth-scroll";
 import "./App.css";
 import CardSection from "./components/blog";
 import {BrowserRouter,Routes,Route} from "react-router-dom" 
-import Home from "./Home";
-import BlogPost from "./components/blogpost";
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
-  speed: 1000,
-  speedAsDuration: true,
-});
-
-const App = () => {
-  const [landingPageData, setLandingPageData] = useState({});
-  useEffect(() => {
-    setLandingPageData(JsonData);
-  }, []);
-
-  return (
-    <BrowserRouter>
-    <div>
-      <Navigation />
-    <Routes>
-     <Route path="/" element={ <Home />} />
-     <Route path="/blog" element={ <BlogPost />} />
-      </Routes>
-    </div>
-    </BrowserRouter>
-  );
-};
-
-export default App;
+    speed: 1000,
+    speedAsDuration: true,
+  });
+  
+  const Home = () => {
+    const [landingPageData, setLandingPageData] = useState({});
+    useEffect(() => {
+      setLandingPageData(JsonData);
+    }, []);
+  
+    return (
+      <div>
+      
+        <Header data={landingPageData.Header} />
+        <Features data={landingPageData.Features} />
+        <About data={landingPageData.About} />
+        <Services data={landingPageData.Services} />
+        <CardSection />
+        {/* <Gallery data={landingPageData.Gallery} /> */}
+        {/*<Testimonials data={landingPageData.Testimonials} />*/}
+        {/* <Team data={landingPageData.Team} /> */}
+        <Contact data={landingPageData.Contact} />
+      </div>
+     
+    );
+  };
+  
+  export default Home;
+  

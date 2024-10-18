@@ -85,11 +85,6 @@
       "icon": "fa fa-mobile",
       "name": "Personal Health Monitoring",
       "text": "Use our integrated tools, such as BMI and calorie calculators, to keep track of your health journey and set realistic fitness goals."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Symptom Checker",
-      "text": "Use our AI-powered symptom checker to quickly analyze your symptoms and receive guidance on potential health issues, helping you decide if a medical consultation is needed."
     }
   ],
   "Testimonials": [
@@ -158,22 +153,26 @@
     {
       "icon": "fa fa-comments-o",
       "title": "AI-Powered Disease Prediction",
-      "text": "Our advanced AI model analyzes specific health parameters to predict potential health conditions, allowing for early detection and preventive care."
+      "text": "Our advanced AI model analyzes specific health parameters to predict potential health conditions, allowing for early detection and preventive care.",
+      "link": "https://rishi-1241-disease-analyzer-multiple-disease-analyser-cwueib.streamlit.app/ "
     },
     {
       "icon": "fa fa-bullhorn",
       "title": "Comprehensive Drug Information",
-      "text": "Access detailed drug information, including uses, side effects, prices, and availability, all in one place."
+      "text": "Access detailed drug information, including uses, side effects, prices, and availability, all in one place.",
+      "link": "/"
     },
     {
       "icon": "fa fa-group",
       "title": "Health Awareness Blogs",
-      "text": "Read expert-written blogs that promote health awareness, covering various diseases, preventive measures, and wellness tips."
+      "text": "Read expert-written blogs that promote health awareness, covering various diseases, preventive measures, and wellness tips.",
+      "link": "/"
     },
     {
       "icon": "fa fa-magic",
       "title": "Personal Health Tools",
-      "text": "Utilize our BMI and calorie calculators to keep track of your fitness goals and maintain a healthier lifestyle."
+      "text": "Utilize our BMI and calorie calculators to keep track of your fitness goals and maintain a healthier lifestyle.",
+      "link": "/"
     }
   ]
 }

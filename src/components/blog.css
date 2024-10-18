@@ -1,0 +1,46 @@
+.card-section {
+    display: flex;
+    overflow-x: auto;
+    padding: 10px;
+    gap: 15px;
+  }
+  
+  .card {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-image {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+  }
+  
+  .card-content {
+    padding: 15px;
+  }
+  
+  .card-content h3 {
+    margin: 0 0 10px;
+  }
+  
+  .card-content p {
+    color: #333; /* Set the text color to your preferred color */
+    line-height: 1.6;
+  }
+  
+  .card-content a {
+    color: inherit; /* Make the link inherit the color of its parent */
+    text-decoration: none; /* Remove the underline */
+  }
+  
+  .card-content a:hover {
+    color: #000; /* Optional: Change color on hover */
+  }
+  
