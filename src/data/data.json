@@ -62,17 +62,17 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-map-marker",
       "name": "Nearby Medical Facilities",
       "text": "Quickly find the closest ambulances, pharmacies, and medical centers around your location. Our service ensures you get immediate access to essential healthcare."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-laptop",
       "name": "AI-Based Disease Prediction",
       "text": "Input specific health parameters, and our AI model will analyze them to provide predictions for possible diseases. This feature enables proactive health monitoring and early intervention."
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-info-circle",
       "name": "Detailed Drug Information",
       "text": "Search for comprehensive drug details, including medicinal uses, dosage, potential side effects, and the latest pricing. Stay informed about what you're taking."
     },
@@ -82,9 +82,9 @@
       "text": "Explore our collection of health-focused blogs that raise awareness about common illnesses, treatment options, and healthy living practices."
     },
     {
-      "icon": "fa fa-plane",
+      "icon": "fa fa-mobile",
       "name": "Personal Health Monitoring",
-      "text": "Personal Health Monitoring"
+      "text": "Use our integrated tools, such as BMI and calorie calculators, to keep track of your health journey and set realistic fitness goals."
     },
     {
       "icon": "fa fa-pie-chart",
@@ -95,33 +95,33 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"I was amazed by how easy it was to find nearby pharmacies and ambulances! The AI predictions were spot on, and I feel more informed about my health now. Highly recommend!\"",
+      "name": "Vikram Singh"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"The disease prediction feature gave me great insights into my health risks. I appreciate the detailed drug information too. A fantastic resource for anyone looking to stay healthy!\"",
+      "name": "Sneha Reddy"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"As someone who is always looking for health information, I found the blogs incredibly helpful. The AI tools are user-friendly, and I love tracking my fitness goals with the calculators!\"",
+      "name": "Aarav Gupta"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"This website has everything I need! The symptom checker is quick and accurate, and the disease prediction made me aware of potential risks I hadn’t considered before.\"",
+      "name": "Ananya Sharma"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"I really appreciate the personalized approach to health management. The AI predictions helped me discuss my health concerns with my doctor, and I feel much more empowered.\"",
+      "name": "Rohan Verma"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"The combination of disease prediction and health resources is invaluable. I feel confident knowing I can access the latest information and tools to monitor my health!\"",
+      "name": "Priya Iyer"
     }
   ],
   "Team": [
@@ -147,9 +147,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "IIIT Bhagalpur, Bihar, 813210",
+    "phone": "+91 98542-36475",
+    "email": "feedback@mediway.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
