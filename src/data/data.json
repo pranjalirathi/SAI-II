@@ -3,7 +3,7 @@
     "title": "Your Health, Just a Click Away!"
   },
   "About": {
-    "paragraph": "Our mission is to make healthcare accessible, reliable, and user-friendly for everyone. At [Website Name], we aim to connect you with essential medical services, from locating the nearest healthcare providers to providing accurate drug information. We believe in empowering people with the knowledge and tools they need to take charge of their health. With features like real-time location finders, detailed medical insights, and wellness blogs, we strive to bridge the gap between you and quality healthcare.",
+    "paragraph": "Our mission is to make healthcare accessible, reliable, and user-friendly for everyone. At MediWay, we aim to connect you with essential medical services, from locating the nearest healthcare providers to providing accurate drug information. We believe in empowering people with the knowledge and tools they need to take charge of their health. With features like real-time location finders, detailed medical insights, and wellness blogs, we strive to bridge the gap between you and quality healthcare.",
     "Why": [
       "Comprehensive Healthcare Access",
       "Health Awareness and Education"
@@ -63,33 +63,33 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Nearby Medical Facilities",
+      "text": "Quickly find the closest ambulances, pharmacies, and medical centers around your location. Our service ensures you get immediate access to essential healthcare."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "AI-Based Disease Prediction",
+      "text": "Input specific health parameters, and our AI model will analyze them to provide predictions for possible diseases. This feature enables proactive health monitoring and early intervention."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Detailed Drug Information",
+      "text": "Search for comprehensive drug details, including medicinal uses, dosage, potential side effects, and the latest pricing. Stay informed about what you're taking."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Health Awareness and Education",
+      "text": "Explore our collection of health-focused blogs that raise awareness about common illnesses, treatment options, and healthy living practices."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Personal Health Monitoring",
+      "text": "Personal Health Monitoring"
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Symptom Checker",
+      "text": "Use our AI-powered symptom checker to quickly analyze your symptoms and receive guidance on potential health issues, helping you decide if a medical consultation is needed."
     }
   ],
   "Testimonials": [
@@ -157,8 +157,8 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Real-Time Location Finder",
-      "text": "Instantly locate the nearest ambulances, pharmacies, and medical facilities around you for quick and reliable access to care."
+      "title": "AI-Powered Disease Prediction",
+      "text": "Our advanced AI model analyzes specific health parameters to predict potential health conditions, allowing for early detection and preventive care."
     },
     {
       "icon": "fa fa-bullhorn",
