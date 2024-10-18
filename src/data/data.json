@@ -9,7 +9,7 @@
       "Health Awareness and Education"
     ],
     "Why2": [
-      "Reliable and Up-to-Date Information:",
+      "Up-to-Date Information",
       "User-Centric Design"
     ]
   },
@@ -157,23 +157,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Real-Time Location Finder",
+      "text": "Instantly locate the nearest ambulances, pharmacies, and medical facilities around you for quick and reliable access to care."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Comprehensive Drug Information",
+      "text": "Access detailed drug information, including uses, side effects, prices, and availability, all in one place."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Health Awareness Blogs",
+      "text": "Read expert-written blogs that promote health awareness, covering various diseases, preventive measures, and wellness tips."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Personal Health Tools",
+      "text": "Utilize our BMI and calorie calculators to keep track of your fitness goals and maintain a healthier lifestyle."
     }
   ]
 }
